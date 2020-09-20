@@ -38,7 +38,6 @@ p {
     .large {
         float: left;
         width: 33.33%;
-        /*border: 1px solid black;*/
     }
 }
 
@@ -46,7 +45,6 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
     .medium1, .medium2 {
         float: left;
-        /*border: 1px solid black;*/
     }
 
     .medium1 {
@@ -63,7 +61,6 @@ p {
     .small {
         float: left;
         width: 100%;
-        /*border: 1px solid black;*/
     }
 }
 
