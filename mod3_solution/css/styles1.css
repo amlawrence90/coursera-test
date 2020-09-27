@@ -1,0 +1,30 @@
+/* Restaurant name - mouseover */
+.navbar-brand a:focus, .navbar-brand a:hover {
+   text-decoration: none;
+}
+
+/*Our Menu Header*/
+.nav-link {
+   text-align: center;
+}
+
+/*Menu Item Headers*/
+.container-fluid h1 {
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+/* Menu Item Sections */
+.container-fluid .col-xs-12 {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: grey;
+    color: black;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+/*Menu Item Paragraphs*/
+.container-fluid h3{
+    margin-top: 30px;
+}
